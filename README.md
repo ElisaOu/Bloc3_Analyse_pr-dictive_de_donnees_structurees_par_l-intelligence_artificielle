@@ -1,0 +1,2 @@
+# Bloc3_Analyse_pr-dictive_de_donnees_structurees_par_l-intelligence_artificielle
+ Analyse prédictive de données structurées par l'intelligence artificielle
