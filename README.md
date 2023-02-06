@@ -61,7 +61,7 @@ To do so, unsupervised machine learning will be used as
 
 ## Available files :
 - Uber_FINAL.ipynb : notebook containing machine learning
-- uber_data/uber-raw-data-apr14.csv : data source
+- uber-raw-data-apr14.csv : data source
 
 
 Happy reading !
