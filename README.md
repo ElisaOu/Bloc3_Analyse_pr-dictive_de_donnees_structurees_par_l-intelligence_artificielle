@@ -1,7 +1,5 @@
 # Bloc N° 3 : Analyse prédictive de données structurées par l'intelligence artificielle.
 
-[Video explain - Bloc 3](https://share.vidyard.com/watch/RE68BWh7mr8Re4x536p74N?)
-
 
 # 1- Walmart Project
 
